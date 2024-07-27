@@ -1,4 +1,4 @@
-# Hi there, I'm [Kiyoung Om] 👋
+# Hi there, I'm Kiyoung Om 👋
 
 Welcome to my GitHub profile! I'm currently a Master's student in Data Science at KAIST, with a strong background in Industrial Engineering from Korea University. Here's a little more about me:
 
