@@ -1,6 +1,6 @@
 # Hi there, I'm Kiyoung Om 👋
 
-Welcome to my GitHub profile! I'm currently a Master's student in Data Science at KAIST, with a strong background in Industrial Engineering from Korea University. Here's a little more about me:
+Welcome to my GitHub profile! I'm a Master's student in Data Science at KAIST with a background in Industrial Engineering from Korea University. Here's a little more about me:
 
 ## 🔍 About Me
 
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm currently a Master's student in Data Science a
 
 - 🧑‍💻 **Experience**:
   - **KAIST**: Masters Student (Feb 2024 - Present)
-    - Focus on Python and Artificial Intelligence, Reinforcement Learning, and Active Learning.
+    - Focus on Python and Machine Learning, especially diffusion models and sequential decision-making.
 
 - 🛠️ **Skills**:
   - **Programming Languages**: Python
